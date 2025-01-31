@@ -1,0 +1,7 @@
+/home/jin517/cuda-assignment-1-carolinejin/CMakeFiles/lab1.dir
+/home/jin517/cuda-assignment-1-carolinejin/CMakeFiles/edit_cache.dir
+/home/jin517/cuda-assignment-1-carolinejin/CMakeFiles/rebuild_cache.dir
+/home/jin517/cuda-assignment-1-carolinejin/src/CMakeFiles/cudaLib.dir
+/home/jin517/cuda-assignment-1-carolinejin/src/CMakeFiles/cpuLib.dir
+/home/jin517/cuda-assignment-1-carolinejin/src/CMakeFiles/edit_cache.dir
+/home/jin517/cuda-assignment-1-carolinejin/src/CMakeFiles/rebuild_cache.dir
