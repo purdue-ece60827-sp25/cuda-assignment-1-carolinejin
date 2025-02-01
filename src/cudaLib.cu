@@ -194,12 +194,12 @@ double estimatePi(uint64_t generateThreadCount, uint64_t sampleSize,
 	uint64_t total = 0;
 
 	for (int i = 0; i < generateThreadCount; i++) {
-		std::cout<<"Thread #"<<i<<" count: "<<host_count[i]<<"\n";
+	//	std::cout<<"Thread #"<<i<<" count: "<<host_count[i]<<"\n";
 		total += host_count[i];
-		std::cout<<"total"<<total<<"\n";
+	//	std::cout<<"total"<<total<<"\n";
 	}
 	uint64_t tests = generateThreadCount* sampleSize;
-	std::cout<<"total tests "<<tests<<"\n";
+	//std::cout<<"total tests "<<tests<<"\n";
 	approxPi = 4.0 * (double)total/(double)tests;
 	
 	return approxPi;
